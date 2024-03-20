@@ -384,7 +384,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/ihc-bldg\/ihc-lobby\/ihc-lobby.json"
+                 "value":"getting-started-5.json"
                 }],
          "type":"tilelayer",
          "visible":true,

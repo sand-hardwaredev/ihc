@@ -124,7 +124,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/..\/getting-started\/getting-started-5.json"
+                 "value":"..\/..\/getting-started\/getting-started-5.json#start-from-lobby"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -120,13 +120,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":51,
          "id":6,
-         "name":"exit-to-neooverse-exhibit",
+         "name":"exit-to-showroom-neooverse",
          "opacity":1,
          "properties":[
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"neooverse-exhibit.json"
+                 "value":"showroom-neooverse.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -188,7 +188,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":51,
          "id":7,
-         "name":"start-from-neooverse-exhibit",
+         "name":"start-from-showroom-neooverse",
          "opacity":1,
          "properties":[
                 {
@@ -386,13 +386,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":51,
          "id":3,
-         "name":"exit-to-beamviews-exhibit",
+         "name":"exit-to-showroom-beamviews",
          "opacity":1,
          "properties":[
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"beamviews-exhibit.json"
+                 "value":"showroom-beamviews.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -454,7 +454,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":51,
          "id":4,
-         "name":"start-from-beamviews-exhibit",
+         "name":"start-from-showroom-beamviews",
          "opacity":1,
          "properties":[
                 {

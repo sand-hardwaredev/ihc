@@ -188,7 +188,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"getting-started-2.json"
+                 "value":"getting-started-2.json#start-from-next"
                 }],
          "type":"tilelayer",
          "visible":true,

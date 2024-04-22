@@ -316,7 +316,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"getting-started-3.json"
+                 "value":"getting-started-3.json#start-from-next"
                 }],
          "type":"tilelayer",
          "visible":true,

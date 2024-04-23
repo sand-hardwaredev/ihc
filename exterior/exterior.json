@@ -554,7 +554,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/ihc-mall\/ihc-mall.json"
+                 "value":"..\/ihc-mall\/ihc-mall-cluster-b.json"
                 }],
          "type":"tilelayer",
          "visible":true,

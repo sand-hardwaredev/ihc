@@ -930,7 +930,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"ihc-mall.json#start-from-cluster-b"
+                 "value":"..\/exterior\/exterior.json#start-from-cafe-ihc"
                 }],
          "type":"tilelayer",
          "visible":true,

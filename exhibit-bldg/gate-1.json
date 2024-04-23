@@ -194,7 +194,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"event-exterior.json"
+                 "value":"..\/ihc-mall\/ihc-mall-cluster-b.json#start-from-exhibit"
                 }],
          "type":"tilelayer",
          "visible":true,

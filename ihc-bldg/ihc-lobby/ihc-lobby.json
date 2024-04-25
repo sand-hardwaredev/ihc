@@ -320,7 +320,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/..\/getting-started\/getting-started-0.json"
+                 "value":"..\/..\/getting-started\/getting-started-1.json"
                 }],
          "type":"tilelayer",
          "visible":true,

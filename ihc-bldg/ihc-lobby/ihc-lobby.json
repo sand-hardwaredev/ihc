@@ -920,7 +920,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/ihclobby.videoserver.neooverse.com\/"
+                         "value":"https:\/\/psa1.sd.vzerorobotics.cloud/\/"
                         }]
                 }, 
                 {
@@ -973,4 +973,5 @@
  "type":"map",
  "version":"1.10",
  "width":91
+
 }
